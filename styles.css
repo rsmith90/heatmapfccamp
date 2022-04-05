@@ -1,0 +1,8 @@
+body {
+  font-family: sans-serif;
+}
+#canvas {
+  background-color: rgba(90, 105, 107, 0.61);
+  min-height: 600px;
+  min-width: 1200px;
+}
